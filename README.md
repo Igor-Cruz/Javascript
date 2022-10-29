@@ -1,8 +1,9 @@
 # Javascript
 JavaScript do básico ao avançado na Udemy com o Professor Matheus Battisti
 
-* Tópicos do cursos : *
-Tipos de dados e operadores lógicos;
+* Tópicos do cursos : 
+
+  Tipos de dados e operadores lógicos;
 
   Estruturas de programação;
 
