@@ -25,7 +25,7 @@ JavaScript do básico ao avançado na Udemy com o Professor Matheus Battisti
 
   Node (c/ Express, Sequelize);
 
-O que será aprendido no curso :
+* O que será aprendido no curso :
 - Lógica de programação com base em JS
 - Orientação a objetos no JavaScript
 - Estruturas de condição, repetição e funções
